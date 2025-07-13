@@ -5,3 +5,5 @@
 Задачи посвящены практическому применению больших языковых моделей, их анализу и доработке.
 
 Каждое задание оформлено в отдельной ветке, например, домашнее задание 1 находится в ветке `hw_1`.
+
+ССылка на ноутбук Google Colab: [hw1_attention_visualization_Solomennikova.ipynb](https://colab.research.google.com/drive/1nGvhUk6m2_8s7U0bGLM-hkfxwEplZG7c?usp=sharing)
