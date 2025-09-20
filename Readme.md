@@ -2,7 +2,7 @@
 
 ### ИТОГИ
 
-### 2) Подготовка данных для дообучения LoRA
+### 1) Подготовка данных для дообучения LoRA
 Использовала [synthetic-data-kit](https://github.com/meta-llama/synthetic-data-kit).  
 - Подготовка данных о товарах  
 - Разбиение на части для поэтапной генерации QA-пар  
@@ -18,7 +18,7 @@
     {"role": "user", "content": "What is the price of the item called 'Polka Style 30x4.4x12.7 cm'?"},
     {"role": "assistant", "content": "$599"}
   ]
-}
+}```
 
 ### 2) Дообучение LoRA на Qwen2-0.5B-Instruct
 Ранг матриц (r) = 16  
