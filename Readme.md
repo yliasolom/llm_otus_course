@@ -18,7 +18,8 @@
     {"role": "user", "content": "What is the price of the item called 'Polka Style 30x4.4x12.7 cm'?"},
     {"role": "assistant", "content": "$599"}
   ]
-}```
+}
+```
 
 ### 2) Дообучение LoRA на Qwen2-0.5B-Instruct
 Ранг матриц (r) = 16  
